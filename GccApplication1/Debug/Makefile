@@ -38,7 +38,6 @@ SUBDIRS :=  \
 ../Drivers/Inc \
 ../Drivers/Inc/component \
 ../Drivers/Inc/instance \
-../Drivers/Inc/NewFolder1/ \
 ../Drivers/Inc/pio \
 ../Drivers/Src \
 ../Inc/ \

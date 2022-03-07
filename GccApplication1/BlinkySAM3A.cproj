@@ -230,154 +230,217 @@
     <Compile Include="Drivers\Inc\component-version.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\adc.h">
+    <Compile Include="Drivers\Inc\component\adc.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\can.h">
+    <Compile Include="Drivers\Inc\component\can.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\can0.h">
+    <Compile Include="Drivers\Inc\component\chipid.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\can1.h">
+    <Compile Include="Drivers\Inc\component\dacc.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\chipid.h">
+    <Compile Include="Drivers\Inc\component\dmac.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\dacc.h">
+    <Compile Include="Drivers\Inc\component\efc.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\dmac.h">
+    <Compile Include="Drivers\Inc\component\emac.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\efc.h">
+    <Compile Include="Drivers\Inc\component\gpbr.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\efc0.h">
+    <Compile Include="Drivers\Inc\component\hsmci.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\efc1.h">
+    <Compile Include="Drivers\Inc\component\matrix.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\emac.h">
+    <Compile Include="Drivers\Inc\component\pdc.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\gpbr.h">
+    <Compile Include="Drivers\Inc\component\pio.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\hsmci.h">
+    <Compile Include="Drivers\Inc\component\pmc.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\matrix.h">
+    <Compile Include="Drivers\Inc\component\pwm.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\pdc.h">
+    <Compile Include="Drivers\Inc\component\rstc.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\pio.h">
+    <Compile Include="Drivers\Inc\component\rtc.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\pioa.h">
+    <Compile Include="Drivers\Inc\component\rtt.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\piob.h">
+    <Compile Include="Drivers\Inc\component\sdramc.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\pioc.h">
+    <Compile Include="Drivers\Inc\component\smc.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\piod.h">
+    <Compile Include="Drivers\Inc\component\spi.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\pioe.h">
+    <Compile Include="Drivers\Inc\component\ssc.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\piof.h">
+    <Compile Include="Drivers\Inc\component\supc.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\pmc.h">
+    <Compile Include="Drivers\Inc\component\tc.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\pwm.h">
+    <Compile Include="Drivers\Inc\component\trng.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\rstc.h">
+    <Compile Include="Drivers\Inc\component\twi.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\rtc.h">
+    <Compile Include="Drivers\Inc\component\uart.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\rtt.h">
+    <Compile Include="Drivers\Inc\component\uotghs.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\sdramc.h">
+    <Compile Include="Drivers\Inc\component\usart.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\smc.h">
+    <Compile Include="Drivers\Inc\component\wdt.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\spi.h">
+    <Compile Include="Drivers\Inc\instance\adc.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\spi0.h">
+    <Compile Include="Drivers\Inc\instance\can0.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\spi1.h">
+    <Compile Include="Drivers\Inc\instance\can1.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\ssc.h">
+    <Compile Include="Drivers\Inc\instance\chipid.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\supc.h">
+    <Compile Include="Drivers\Inc\instance\dacc.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\tc.h">
+    <Compile Include="Drivers\Inc\instance\dmac.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\tc0.h">
+    <Compile Include="Drivers\Inc\instance\efc0.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\tc1.h">
+    <Compile Include="Drivers\Inc\instance\efc1.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\tc2.h">
+    <Compile Include="Drivers\Inc\instance\emac.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\trng.h">
+    <Compile Include="Drivers\Inc\instance\gpbr.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\twi.h">
+    <Compile Include="Drivers\Inc\instance\hsmci.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\twi0.h">
+    <Compile Include="Drivers\Inc\instance\matrix.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\twi1.h">
+    <Compile Include="Drivers\Inc\instance\pioa.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\uart.h">
+    <Compile Include="Drivers\Inc\instance\piob.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\uotghs.h">
+    <Compile Include="Drivers\Inc\instance\pioc.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\usart.h">
+    <Compile Include="Drivers\Inc\instance\piod.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\usart0.h">
+    <Compile Include="Drivers\Inc\instance\pioe.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\usart1.h">
+    <Compile Include="Drivers\Inc\instance\piof.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\usart2.h">
+    <Compile Include="Drivers\Inc\instance\pmc.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\usart3.h">
+    <Compile Include="Drivers\Inc\instance\pwm.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="Drivers\Inc\NewFolder1\wdt.h">
+    <Compile Include="Drivers\Inc\instance\rstc.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Drivers\Inc\instance\rtc.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Drivers\Inc\instance\rtt.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Drivers\Inc\instance\sdramc.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Drivers\Inc\instance\smc.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Drivers\Inc\instance\spi0.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Drivers\Inc\instance\spi1.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Drivers\Inc\instance\ssc.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Drivers\Inc\instance\supc.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Drivers\Inc\instance\tc0.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Drivers\Inc\instance\tc1.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Drivers\Inc\instance\tc2.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Drivers\Inc\instance\trng.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Drivers\Inc\instance\twi0.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Drivers\Inc\instance\twi1.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Drivers\Inc\instance\uart.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Drivers\Inc\instance\uotghs.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Drivers\Inc\instance\usart0.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Drivers\Inc\instance\usart1.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Drivers\Inc\instance\usart2.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Drivers\Inc\instance\usart3.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Drivers\Inc\instance\wdt.h">
       <SubType>compile</SubType>
     </Compile>
     <Compile Include="Drivers\Inc\pio\sam3a4c.h">
@@ -420,7 +483,6 @@
     <Folder Include="Drivers\Inc" />
     <Folder Include="Drivers\Inc\component" />
     <Folder Include="Drivers\Inc\instance" />
-    <Folder Include="Drivers\Inc\NewFolder1\" />
     <Folder Include="Drivers\Inc\pio" />
     <Folder Include="Drivers\Src" />
     <Folder Include="Inc\" />
