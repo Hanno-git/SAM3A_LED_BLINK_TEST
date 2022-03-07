@@ -1,6 +1,6 @@
-# SAM3A_LED_BLINK_TEST
+# SAM3A_LED_BLINK_TEST on Microchip Studio
 
-This is a simple LED flickering testing program for the ATSAM3A4CA-CU chip. 
+This is a simple LED flickering test program for the ATSAM3A4CA-CU chip. 
 
 # This is untested
 I'm still waiting for the chip
